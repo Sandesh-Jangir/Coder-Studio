@@ -15,5 +15,5 @@ It is a light weigth text-editor designed especially for low configuration compu
 - 2 GBs of RAM (4 GB recomended)
 ## Acknowledgements
 
- - [Bootstrap](https://https://getbootstrap.com/)
- - [Stack Overflow](https://stackoverflow.com/)
+[Bootstrap](https://https://getbootstrap.com/)
+[Stack Overflow](https://stackoverflow.com/)
